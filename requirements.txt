@@ -1,0 +1,17 @@
+# numpy
+# openai
+# transformers
+# ransformers[agents]
+transformers~=4.29
+numpy
+torch
+torchvision
+pillow
+diffusers
+accelerate
+transformers[agents]~=4.29
+openai
+torchaudio
+transformers[torch]~=4.29
+python-dotenv
+sentencepiece
